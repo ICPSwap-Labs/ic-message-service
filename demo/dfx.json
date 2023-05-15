@@ -1,0 +1,29 @@
+{
+  "canisters": {
+    "Producor": {
+      "main": "TestPublisher.mo",
+      "type": "motoko"
+    },
+    "ConsumerA": {
+      "main": "TestConsumer.mo",
+      "type": "motoko"
+    },
+    "ConsumerB": {
+      "main": "TestConsumer.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": "vessel sources"
+    }
+  },
+  "dfx": "0.13.1",
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}

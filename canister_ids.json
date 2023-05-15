@@ -1,0 +1,18 @@
+{
+  "Broker": {
+    "ic": "bwckc-3qaaa-aaaak-aepwq-cai"
+  },
+  "ConsumerTestA": {
+    "ic": "g6rbr-tyaaa-aaaak-aeqcq-cai"
+  },
+  "ConsumerTestB": {
+    "ic": "gxskn-fqaaa-aaaak-aeqda-cai"
+  },
+  "PublisherTest": {
+    "ic": "gzqhf-6aaaa-aaaak-aeqca-cai"
+  },
+
+  "interface": {
+    "ic": "h24od-kyaaa-aaaak-aeqeq-cai"
+  }
+}
